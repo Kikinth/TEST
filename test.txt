@@ -1,2 +1,3 @@
 Zkouška testu
 Další zkouška testu, jak se stahuje upravený soubor.
+Další úprava pro test cloudu.
